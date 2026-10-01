@@ -1,0 +1,7 @@
+# Source: values constructed for COMP3122 Chapter 4 (illustrative, not observations)
+# Note: values are daily highs in degrees Celsius
+city,Mon,Tue,Wed
+Toronto,22,24,25
+Cairo,30,31,33
+Tokyo,18,19,19
+Sydney,28,27,26

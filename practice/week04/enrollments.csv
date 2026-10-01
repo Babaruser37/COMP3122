@@ -1,0 +1,7 @@
+course,section,enrolled,capacity,delivery
+COMP3122,A,38,40,in-person
+COMP3122,B,42,40,in-person
+COMP1011,A,35,40,online
+COMP1011,B,28,40,online
+COMP2152,A,40,40,hybrid
+COMP2152,B,22,40,hybrid
