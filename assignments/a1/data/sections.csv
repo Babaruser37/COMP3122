@@ -1,0 +1,721 @@
+section_id,term,program,campus,delivery,capacity,enrolled,withdrawn,contact_hours,mean_grade,is_capstone
+SEC-0001,2024F,Software Engineering,Casa Loma,in-person,36,26,0,42,80.5,No
+SEC-0002,2024F,Software Engineering,Casa Loma,in-person,24,18,1,42,79.3,No
+SEC-0003,2024F,Software Engineering,Casa Loma,in-person,30,18,1,70,80.4,No
+SEC-0004,2024F,Software Engineering,Casa Loma,in-person,42,31,0,70,75.9,No
+SEC-0005,2024F,Software Engineering,Casa Loma,in-person,30,18,2,42,72.4,No
+SEC-0006,2024F,Software Engineering,Casa Loma,online,30,24,3,42,72.2,No
+SEC-0007,2024F,Software Engineering,Casa Loma,online,30,23,3,56,72.8,No
+SEC-0008,2024F,Software Engineering,Casa Loma,online,42,32,4,56,62.8,No
+SEC-0009,2024F,Software Engineering,Casa Loma,online,36,36,3,56,73.5,No
+SEC-0010,2024F,Software Engineering,Casa Loma,online,42,39,3,70,73.7,No
+SEC-0011,2024F,Software Engineering,Casa Loma,hybrid,30,23,2,70,71.5,No
+SEC-0012,2024F,Software Engineering,Casa Loma,hybrid,36,25,2,70,77.8,No
+SEC-0013,2024F,Software Engineering,Casa Loma,hybrid,30,25,1,56,71.0,No
+SEC-0014,2024F,Software Engineering,Casa Loma,hybrid,24,22,2,70,80.3,No
+SEC-0015,2024F,Software Engineering,Casa Loma,hybrid,30,27,0,56,72.1,No
+SEC-0016,2024F,Software Engineering,St. James,in-person,30,21,0,56,65.6,No
+SEC-0017,2024F,Software Engineering,St. James,in-person,36,23,1,70,71.4,No
+SEC-0018,2024F,Software Engineering,St. James,in-person,30,24,1,70,79.1,No
+SEC-0019,2024F,Software Engineering,St. James,in-person,36,27,1,56,74.1,No
+SEC-0020,2024F,Software Engineering,St. James,in-person,42,31,2,56,74.7,Yes
+SEC-0021,2024F,Software Engineering,St. James,online,24,23,3,42,68.5,No
+SEC-0022,2024F,Software Engineering,St. James,online,24,21,3,56,77.7,No
+SEC-0023,2024F,Software Engineering,St. James,online,30,27,3,42,68.3,Yes
+SEC-0024,2024F,Software Engineering,St. James,online,30,27,3,56,73.3,No
+SEC-0025,2024F,Software Engineering,St. James,online,36,28,3,56,78.4,No
+SEC-0026,2024F,Software Engineering,St. James,hybrid,36,29,1,56,71.9,No
+SEC-0027,2024F,Software Engineering,St. James,hybrid,42,37,2,56,68.8,Yes
+SEC-0028,2024F,Software Engineering,St. James,hybrid,42,31,3,70,70.4,No
+SEC-0029,2024F,Software Engineering,St. James,hybrid,36,29,2,70,84.2,No
+SEC-0030,2024F,Software Engineering,St. James,hybrid,36,26,2,42,78.4,No
+SEC-0031,2024F,Software Engineering,Waterfront,in-person,30,22,2,70,71.8,No
+SEC-0032,2024F,Software Engineering,Waterfront,in-person,30,24,2,70,74.4,No
+SEC-0033,2024F,Software Engineering,Waterfront,in-person,36,23,1,56,72.8,No
+SEC-0034,2024F,Software Engineering,Waterfront,in-person,42,27,1,42,79.8,No
+SEC-0035,2024F,Software Engineering,Waterfront,in-person,42,31,2,56,67.8,No
+SEC-0036,2024F,Software Engineering,Waterfront,online,24,21,2,70,77.4,No
+SEC-0037,2024F,Software Engineering,Waterfront,online,24,23,3,56,76.7,No
+SEC-0038,2024F,Software Engineering,Waterfront,online,36,36,5,70,68.0,No
+SEC-0039,2024F,Software Engineering,Waterfront,online,42,40,5,56,69.8,No
+SEC-0040,2024F,Software Engineering,Waterfront,online,36,33,2,56,65.9,No
+SEC-0041,2024F,Software Engineering,Waterfront,hybrid,42,30,1,56,82.7,No
+SEC-0042,2024F,Software Engineering,Waterfront,hybrid,42,34,3,56,73.8,No
+SEC-0043,2024F,Software Engineering,Waterfront,hybrid,42,34,5,42,75.5,Yes
+SEC-0044,2024F,Software Engineering,Waterfront,hybrid,36,32,3,56,71.5,No
+SEC-0045,2024F,Software Engineering,Waterfront,hybrid,42,36,3,70,73.8,No
+SEC-0046,2024F,Data Science,Casa Loma,in-person,42,26,0,42,78.7,No
+SEC-0047,2024F,Data Science,Casa Loma,in-person,42,27,1,70,85.7,No
+SEC-0048,2024F,Data Science,Casa Loma,in-person,42,31,2,42,78.9,No
+SEC-0049,2024F,Data Science,Casa Loma,in-person,30,18,0,70,79.5,No
+SEC-0050,2024F,Data Science,Casa Loma,in-person,36,25,3,70,80.9,No
+SEC-0051,2024F,Data Science,Casa Loma,online,30,28,4,70,79.3,No
+SEC-0052,2024F,Data Science,Casa Loma,online,30,26,4,56,72.1,Yes
+SEC-0053,2024F,Data Science,Casa Loma,online,30,29,4,42,63.1,No
+SEC-0054,2024F,Data Science,Casa Loma,online,24,22,2,70,71.7,No
+SEC-0055,2024F,Data Science,Casa Loma,online,30,30,3,70,69.1,No
+SEC-0056,2024F,Data Science,Casa Loma,hybrid,36,29,3,56,72.2,Yes
+SEC-0057,2024F,Data Science,Casa Loma,hybrid,24,21,1,42,75.0,No
+SEC-0058,2024F,Data Science,Casa Loma,hybrid,30,21,2,56,83.4,Yes
+SEC-0059,2024F,Data Science,Casa Loma,hybrid,24,20,2,56,79.6,No
+SEC-0060,2024F,Data Science,Casa Loma,hybrid,30,28,1,56,73.5,No
+SEC-0061,2024F,Data Science,St. James,in-person,42,29,1,42,73.6,No
+SEC-0062,2024F,Data Science,St. James,in-person,36,27,1,70,77.3,No
+SEC-0063,2024F,Data Science,St. James,in-person,30,27,1,70,64.6,No
+SEC-0064,2024F,Data Science,St. James,in-person,36,27,2,70,78.5,No
+SEC-0065,2024F,Data Science,St. James,in-person,42,35,2,42,76.6,No
+SEC-0066,2024F,Data Science,St. James,online,36,32,3,56,66.3,Yes
+SEC-0067,2024F,Data Science,St. James,online,42,42,4,56,70.2,No
+SEC-0068,2024F,Data Science,St. James,online,24,17,3,42,69.7,Yes
+SEC-0069,2024F,Data Science,St. James,online,24,21,1,56,73.5,No
+SEC-0070,2024F,Data Science,St. James,online,36,32,4,56,72.0,No
+SEC-0071,2024F,Data Science,St. James,hybrid,36,27,1,42,79.8,No
+SEC-0072,2024F,Data Science,St. James,hybrid,36,29,1,56,78.6,No
+SEC-0073,2024F,Data Science,St. James,hybrid,42,37,3,42,75.0,No
+SEC-0074,2024F,Data Science,St. James,hybrid,36,36,4,56,72.3,No
+SEC-0075,2024F,Data Science,St. James,hybrid,30,30,2,70,77.0,No
+SEC-0076,2024F,Data Science,Waterfront,in-person,30,19,1,70,74.4,No
+SEC-0077,2024F,Data Science,Waterfront,in-person,36,26,2,42,76.8,No
+SEC-0078,2024F,Data Science,Waterfront,in-person,42,29,2,42,75.8,No
+SEC-0079,2024F,Data Science,Waterfront,in-person,36,19,1,42,75.8,No
+SEC-0080,2024F,Data Science,Waterfront,in-person,24,18,0,42,68.2,No
+SEC-0081,2024F,Data Science,Waterfront,online,42,36,6,42,76.0,No
+SEC-0082,2024F,Data Science,Waterfront,online,30,29,2,56,71.1,No
+SEC-0083,2024F,Data Science,Waterfront,online,24,20,2,70,72.8,No
+SEC-0084,2024F,Data Science,Waterfront,online,30,28,4,56,72.4,Yes
+SEC-0085,2024F,Data Science,Waterfront,online,30,30,2,70,72.7,Yes
+SEC-0086,2024F,Data Science,Waterfront,hybrid,36,34,3,42,68.9,Yes
+SEC-0087,2024F,Data Science,Waterfront,hybrid,30,25,2,42,76.2,Yes
+SEC-0088,2024F,Data Science,Waterfront,hybrid,30,26,1,42,80.5,No
+SEC-0089,2024F,Data Science,Waterfront,hybrid,36,24,2,56,69.8,No
+SEC-0090,2024F,Data Science,Waterfront,hybrid,36,26,1,70,72.5,Yes
+SEC-0091,2024F,IT Support,Casa Loma,in-person,42,30,1,56,82.4,Yes
+SEC-0092,2024F,IT Support,Casa Loma,in-person,42,28,1,70,81.3,No
+SEC-0093,2024F,IT Support,Casa Loma,in-person,30,17,0,56,83.9,No
+SEC-0094,2024F,IT Support,Casa Loma,in-person,24,19,1,70,58.8,No
+SEC-0095,2024F,IT Support,Casa Loma,in-person,36,25,2,42,77.0,No
+SEC-0096,2024F,IT Support,Casa Loma,online,24,23,2,56,73.5,Yes
+SEC-0097,2024F,IT Support,Casa Loma,online,30,26,2,56,71.6,No
+SEC-0098,2024F,IT Support,Casa Loma,online,36,35,2,42,74.0,No
+SEC-0099,2024F,IT Support,Casa Loma,online,36,31,5,42,70.4,No
+SEC-0100,2024F,IT Support,Casa Loma,online,42,35,3,70,63.1,No
+SEC-0101,2024F,IT Support,Casa Loma,hybrid,30,24,0,56,69.9,No
+SEC-0102,2024F,IT Support,Casa Loma,hybrid,42,36,3,56,70.5,Yes
+SEC-0103,2024F,IT Support,Casa Loma,hybrid,30,26,2,42,73.5,No
+SEC-0104,2024F,IT Support,Casa Loma,hybrid,36,34,2,70,64.3,No
+SEC-0105,2024F,IT Support,Casa Loma,hybrid,42,32,3,56,89.5,No
+SEC-0106,2024F,IT Support,St. James,in-person,36,34,1,42,66.8,No
+SEC-0107,2024F,IT Support,St. James,in-person,30,19,2,42,63.1,No
+SEC-0108,2024F,IT Support,St. James,in-person,42,30,1,70,70.8,No
+SEC-0109,2024F,IT Support,St. James,in-person,36,22,0,42,62.9,No
+SEC-0110,2024F,IT Support,St. James,in-person,30,20,1,70,73.9,No
+SEC-0111,2024F,IT Support,St. James,online,42,35,2,70,74.4,No
+SEC-0112,2024F,IT Support,St. James,online,36,36,4,56,62.4,No
+SEC-0113,2024F,IT Support,St. James,online,42,42,6,70,65.8,No
+SEC-0114,2024F,IT Support,St. James,online,30,29,4,56,68.3,No
+SEC-0115,2024F,IT Support,St. James,online,42,40,6,42,63.6,No
+SEC-0116,2024F,IT Support,St. James,hybrid,30,26,1,70,74.4,No
+SEC-0117,2024F,IT Support,St. James,hybrid,24,19,1,70,61.4,Yes
+SEC-0118,2024F,IT Support,St. James,hybrid,24,18,2,42,61.2,No
+SEC-0119,2024F,IT Support,St. James,hybrid,30,27,3,56,86.3,No
+SEC-0120,2024F,IT Support,St. James,hybrid,36,30,2,70,90.1,No
+SEC-0121,2024F,IT Support,Waterfront,in-person,36,27,0,56,74.4,No
+SEC-0122,2024F,IT Support,Waterfront,in-person,30,22,1,56,80.5,No
+SEC-0123,2024F,IT Support,Waterfront,in-person,30,18,1,56,77.9,No
+SEC-0124,2024F,IT Support,Waterfront,in-person,36,26,1,70,70.6,Yes
+SEC-0125,2024F,IT Support,Waterfront,in-person,30,24,1,42,78.0,No
+SEC-0126,2024F,IT Support,Waterfront,online,36,25,3,42,72.8,No
+SEC-0127,2024F,IT Support,Waterfront,online,42,41,5,56,75.5,No
+SEC-0128,2024F,IT Support,Waterfront,online,30,26,3,70,86.1,No
+SEC-0129,2024F,IT Support,Waterfront,online,36,31,2,56,84.8,Yes
+SEC-0130,2024F,IT Support,Waterfront,online,24,19,2,42,67.5,Yes
+SEC-0131,2024F,IT Support,Waterfront,hybrid,24,23,2,56,63.9,No
+SEC-0132,2024F,IT Support,Waterfront,hybrid,30,29,3,70,70.7,Yes
+SEC-0133,2024F,IT Support,Waterfront,hybrid,36,34,2,70,58.7,No
+SEC-0134,2024F,IT Support,Waterfront,hybrid,42,33,3,56,83.7,Yes
+SEC-0135,2024F,IT Support,Waterfront,hybrid,30,27,2,56,71.7,No
+SEC-0136,2024F,Business Analytics,Casa Loma,in-person,24,18,1,70,75.1,No
+SEC-0137,2024F,Business Analytics,Casa Loma,in-person,42,23,0,56,74.8,No
+SEC-0138,2024F,Business Analytics,Casa Loma,in-person,24,18,1,56,74.6,No
+SEC-0139,2024F,Business Analytics,Casa Loma,in-person,36,32,0,56,77.5,No
+SEC-0140,2024F,Business Analytics,Casa Loma,in-person,24,18,1,42,77.1,Yes
+SEC-0141,2024F,Business Analytics,Casa Loma,online,42,35,3,70,71.2,No
+SEC-0142,2024F,Business Analytics,Casa Loma,online,24,20,4,42,74.0,No
+SEC-0143,2024F,Business Analytics,Casa Loma,online,24,21,2,70,65.3,Yes
+SEC-0144,2024F,Business Analytics,Casa Loma,online,36,36,4,70,65.8,No
+SEC-0145,2024F,Business Analytics,Casa Loma,online,36,36,5,70,74.4,No
+SEC-0146,2024F,Business Analytics,Casa Loma,hybrid,24,19,1,56,75.4,Yes
+SEC-0147,2024F,Business Analytics,Casa Loma,hybrid,36,32,1,56,75.7,No
+SEC-0148,2024F,Business Analytics,Casa Loma,hybrid,24,20,2,42,74.3,No
+SEC-0149,2024F,Business Analytics,Casa Loma,hybrid,36,28,1,70,66.3,No
+SEC-0150,2024F,Business Analytics,Casa Loma,hybrid,36,30,3,56,70.2,No
+SEC-0151,2024F,Business Analytics,St. James,in-person,24,16,2,56,69.7,No
+SEC-0152,2024F,Business Analytics,St. James,in-person,42,40,3,56,61.1,No
+SEC-0153,2024F,Business Analytics,St. James,in-person,42,29,1,56,66.9,Yes
+SEC-0154,2024F,Business Analytics,St. James,in-person,24,16,1,42,73.0,No
+SEC-0155,2024F,Business Analytics,St. James,in-person,36,24,1,56,74.0,Yes
+SEC-0156,2024F,Business Analytics,St. James,online,36,31,4,56,68.3,No
+SEC-0157,2024F,Business Analytics,St. James,online,36,36,2,56,72.4,No
+SEC-0158,2024F,Business Analytics,St. James,online,30,26,4,42,62.3,No
+SEC-0159,2024F,Business Analytics,St. James,online,36,25,3,42,73.5,No
+SEC-0160,2024F,Business Analytics,St. James,online,36,31,4,70,72.9,No
+SEC-0161,2024F,Business Analytics,St. James,hybrid,30,27,2,70,63.2,No
+SEC-0162,2024F,Business Analytics,St. James,hybrid,30,25,2,70,73.7,No
+SEC-0163,2024F,Business Analytics,St. James,hybrid,42,26,1,70,65.4,Yes
+SEC-0164,2024F,Business Analytics,St. James,hybrid,42,31,5,56,76.8,No
+SEC-0165,2024F,Business Analytics,St. James,hybrid,42,37,3,56,68.1,No
+SEC-0166,2024F,Business Analytics,Waterfront,in-person,42,25,1,42,73.2,No
+SEC-0167,2024F,Business Analytics,Waterfront,in-person,36,26,1,42,66.8,No
+SEC-0168,2024F,Business Analytics,Waterfront,in-person,30,20,0,70,71.1,No
+SEC-0169,2024F,Business Analytics,Waterfront,in-person,36,25,0,42,71.3,No
+SEC-0170,2024F,Business Analytics,Waterfront,in-person,36,33,1,56,70.1,No
+SEC-0171,2024F,Business Analytics,Waterfront,online,30,29,4,56,70.1,No
+SEC-0172,2024F,Business Analytics,Waterfront,online,36,28,2,56,72.2,No
+SEC-0173,2024F,Business Analytics,Waterfront,online,30,26,3,42,71.2,No
+SEC-0174,2024F,Business Analytics,Waterfront,online,36,35,3,56,73.5,No
+SEC-0175,2024F,Business Analytics,Waterfront,online,24,20,2,56,79.9,Yes
+SEC-0176,2024F,Business Analytics,Waterfront,hybrid,36,31,4,42,71.8,No
+SEC-0177,2024F,Business Analytics,Waterfront,hybrid,24,20,2,70,67.8,No
+SEC-0178,2024F,Business Analytics,Waterfront,hybrid,36,36,3,42,61.9,No
+SEC-0179,2024F,Business Analytics,Waterfront,hybrid,36,25,3,70,85.6,No
+SEC-0180,2024F,Business Analytics,Waterfront,hybrid,36,22,1,56,81.6,No
+SEC-0181,2025W,Software Engineering,Casa Loma,in-person,24,18,1,42,76.1,No
+SEC-0182,2025W,Software Engineering,Casa Loma,in-person,36,21,0,42,77.7,No
+SEC-0183,2025W,Software Engineering,Casa Loma,in-person,24,18,0,70,79.3,No
+SEC-0184,2025W,Software Engineering,Casa Loma,in-person,42,32,3,56,71.0,No
+SEC-0185,2025W,Software Engineering,Casa Loma,in-person,24,18,1,70,82.3,No
+SEC-0186,2025W,Software Engineering,Casa Loma,online,24,22,3,42,70.2,No
+SEC-0187,2025W,Software Engineering,Casa Loma,online,36,30,3,70,75.5,No
+SEC-0188,2025W,Software Engineering,Casa Loma,online,42,37,3,42,72.6,No
+SEC-0189,2025W,Software Engineering,Casa Loma,online,36,35,1,42,74.1,No
+SEC-0190,2025W,Software Engineering,Casa Loma,online,36,36,3,70,75.9,No
+SEC-0191,2025W,Software Engineering,Casa Loma,hybrid,30,26,1,70,70.3,No
+SEC-0192,2025W,Software Engineering,Casa Loma,hybrid,36,30,3,56,73.4,No
+SEC-0193,2025W,Software Engineering,Casa Loma,hybrid,24,20,1,56,77.4,No
+SEC-0194,2025W,Software Engineering,Casa Loma,hybrid,24,21,3,70,81.0,No
+SEC-0195,2025W,Software Engineering,Casa Loma,hybrid,36,30,2,56,84.7,Yes
+SEC-0196,2025W,Software Engineering,St. James,in-person,42,37,2,70,73.9,No
+SEC-0197,2025W,Software Engineering,St. James,in-person,24,21,2,70,72.0,Yes
+SEC-0198,2025W,Software Engineering,St. James,in-person,30,23,2,70,70.2,No
+SEC-0199,2025W,Software Engineering,St. James,in-person,42,35,2,70,71.1,No
+SEC-0200,2025W,Software Engineering,St. James,in-person,30,24,1,70,74.6,Yes
+SEC-0201,2025W,Software Engineering,St. James,online,36,27,3,70,77.5,No
+SEC-0202,2025W,Software Engineering,St. James,online,36,34,5,70,75.4,No
+SEC-0203,2025W,Software Engineering,St. James,online,24,22,2,70,83.0,No
+SEC-0204,2025W,Software Engineering,St. James,online,42,42,4,42,77.1,No
+SEC-0205,2025W,Software Engineering,St. James,online,36,31,4,70,71.2,No
+SEC-0206,2025W,Software Engineering,St. James,hybrid,42,33,2,42,78.3,No
+SEC-0207,2025W,Software Engineering,St. James,hybrid,36,25,3,70,70.9,No
+SEC-0208,2025W,Software Engineering,St. James,hybrid,24,22,2,56,76.0,No
+SEC-0209,2025W,Software Engineering,St. James,hybrid,36,29,0,42,67.4,No
+SEC-0210,2025W,Software Engineering,St. James,hybrid,42,34,3,42,74.1,No
+SEC-0211,2025W,Software Engineering,Waterfront,in-person,30,23,0,70,77.5,No
+SEC-0212,2025W,Software Engineering,Waterfront,in-person,30,20,0,70,76.8,No
+SEC-0213,2025W,Software Engineering,Waterfront,in-person,24,21,1,42,81.8,No
+SEC-0214,2025W,Software Engineering,Waterfront,in-person,36,30,1,70,78.1,Yes
+SEC-0215,2025W,Software Engineering,Waterfront,in-person,30,27,0,70,69.5,No
+SEC-0216,2025W,Software Engineering,Waterfront,online,30,30,4,42,71.4,No
+SEC-0217,2025W,Software Engineering,Waterfront,online,30,30,4,42,78.8,No
+SEC-0218,2025W,Software Engineering,Waterfront,online,36,29,4,70,74.5,No
+SEC-0219,2025W,Software Engineering,Waterfront,online,30,24,1,70,71.0,No
+SEC-0220,2025W,Software Engineering,Waterfront,online,30,30,3,56,74.9,No
+SEC-0221,2025W,Software Engineering,Waterfront,hybrid,42,37,3,42,67.5,No
+SEC-0222,2025W,Software Engineering,Waterfront,hybrid,42,35,3,70,79.5,No
+SEC-0223,2025W,Software Engineering,Waterfront,hybrid,30,21,2,42,80.7,Yes
+SEC-0224,2025W,Software Engineering,Waterfront,hybrid,42,38,5,42,76.9,No
+SEC-0225,2025W,Software Engineering,Waterfront,hybrid,42,41,2,42,74.8,No
+SEC-0226,2025W,Data Science,Casa Loma,in-person,30,19,0,70,76.6,No
+SEC-0227,2025W,Data Science,Casa Loma,in-person,42,37,2,56,76.2,No
+SEC-0228,2025W,Data Science,Casa Loma,in-person,24,16,0,70,77.1,Yes
+SEC-0229,2025W,Data Science,Casa Loma,in-person,24,18,1,70,81.9,No
+SEC-0230,2025W,Data Science,Casa Loma,in-person,36,27,3,70,83.1,No
+SEC-0231,2025W,Data Science,Casa Loma,online,42,33,4,56,78.3,No
+SEC-0232,2025W,Data Science,Casa Loma,online,30,22,2,70,76.5,No
+SEC-0233,2025W,Data Science,Casa Loma,online,42,40,4,42,72.1,No
+SEC-0234,2025W,Data Science,Casa Loma,online,42,42,5,42,73.9,No
+SEC-0235,2025W,Data Science,Casa Loma,online,24,20,2,42,76.8,No
+SEC-0236,2025W,Data Science,Casa Loma,hybrid,30,21,2,70,78.0,No
+SEC-0237,2025W,Data Science,Casa Loma,hybrid,42,33,4,42,78.6,No
+SEC-0238,2025W,Data Science,Casa Loma,hybrid,36,30,3,42,70.3,No
+SEC-0239,2025W,Data Science,Casa Loma,hybrid,30,26,2,42,76.7,No
+SEC-0240,2025W,Data Science,Casa Loma,hybrid,42,37,5,70,75.4,No
+SEC-0241,2025W,Data Science,St. James,in-person,30,22,0,56,73.9,No
+SEC-0242,2025W,Data Science,St. James,in-person,42,27,1,42,77.3,No
+SEC-0243,2025W,Data Science,St. James,in-person,42,29,1,70,76.4,No
+SEC-0244,2025W,Data Science,St. James,in-person,30,25,0,70,78.2,No
+SEC-0245,2025W,Data Science,St. James,in-person,24,18,1,42,75.7,Yes
+SEC-0246,2025W,Data Science,St. James,online,36,35,5,70,74.4,No
+SEC-0247,2025W,Data Science,St. James,online,30,27,4,70,65.7,Yes
+SEC-0248,2025W,Data Science,St. James,online,30,27,1,70,78.8,No
+SEC-0249,2025W,Data Science,St. James,online,42,42,5,70,73.4,No
+SEC-0250,2025W,Data Science,St. James,online,30,27,2,56,71.6,No
+SEC-0251,2025W,Data Science,St. James,hybrid,42,33,2,56,65.3,No
+SEC-0252,2025W,Data Science,St. James,hybrid,42,29,2,70,75.0,No
+SEC-0253,2025W,Data Science,St. James,hybrid,36,25,2,42,80.1,No
+SEC-0254,2025W,Data Science,St. James,hybrid,24,18,0,42,74.5,No
+SEC-0255,2025W,Data Science,St. James,hybrid,30,23,2,70,78.8,Yes
+SEC-0256,2025W,Data Science,Waterfront,in-person,42,24,2,42,86.0,No
+SEC-0257,2025W,Data Science,Waterfront,in-person,36,26,1,42,83.8,No
+SEC-0258,2025W,Data Science,Waterfront,in-person,36,26,1,70,77.9,No
+SEC-0259,2025W,Data Science,Waterfront,in-person,42,30,2,42,67.0,No
+SEC-0260,2025W,Data Science,Waterfront,in-person,42,39,1,42,74.5,No
+SEC-0261,2025W,Data Science,Waterfront,online,42,34,2,56,74.4,No
+SEC-0262,2025W,Data Science,Waterfront,online,36,32,4,70,67.6,No
+SEC-0263,2025W,Data Science,Waterfront,online,42,41,5,42,75.5,No
+SEC-0264,2025W,Data Science,Waterfront,online,42,38,3,56,72.5,No
+SEC-0265,2025W,Data Science,Waterfront,online,24,20,3,42,78.8,Yes
+SEC-0266,2025W,Data Science,Waterfront,hybrid,30,26,0,70,76.8,No
+SEC-0267,2025W,Data Science,Waterfront,hybrid,36,33,1,42,76.8,No
+SEC-0268,2025W,Data Science,Waterfront,hybrid,24,21,1,42,76.3,No
+SEC-0269,2025W,Data Science,Waterfront,hybrid,36,28,4,70,73.0,No
+SEC-0270,2025W,Data Science,Waterfront,hybrid,30,26,2,42,75.2,No
+SEC-0271,2025W,IT Support,Casa Loma,in-person,30,23,1,56,89.1,No
+SEC-0272,2025W,IT Support,Casa Loma,in-person,24,15,1,42,79.7,No
+SEC-0273,2025W,IT Support,Casa Loma,in-person,42,27,1,42,79.7,No
+SEC-0274,2025W,IT Support,Casa Loma,in-person,36,25,0,70,78.6,No
+SEC-0275,2025W,IT Support,Casa Loma,in-person,24,22,1,56,90.2,No
+SEC-0276,2025W,IT Support,Casa Loma,online,30,25,4,42,89.7,No
+SEC-0277,2025W,IT Support,Casa Loma,online,42,39,4,70,66.1,No
+SEC-0278,2025W,IT Support,Casa Loma,online,24,24,3,56,71.8,Yes
+SEC-0279,2025W,IT Support,Casa Loma,online,24,23,3,56,70.2,No
+SEC-0280,2025W,IT Support,Casa Loma,online,30,27,4,42,68.4,No
+SEC-0281,2025W,IT Support,Casa Loma,hybrid,30,18,1,56,68.1,Yes
+SEC-0282,2025W,IT Support,Casa Loma,hybrid,24,24,1,56,69.2,No
+SEC-0283,2025W,IT Support,Casa Loma,hybrid,42,36,4,56,84.2,No
+SEC-0284,2025W,IT Support,Casa Loma,hybrid,42,38,4,56,69.5,No
+SEC-0285,2025W,IT Support,Casa Loma,hybrid,30,25,2,42,71.7,No
+SEC-0286,2025W,IT Support,St. James,in-person,42,39,2,56,65.5,No
+SEC-0287,2025W,IT Support,St. James,in-person,42,28,3,70,73.1,No
+SEC-0288,2025W,IT Support,St. James,in-person,36,24,1,70,79.8,No
+SEC-0289,2025W,IT Support,St. James,in-person,42,28,2,42,69.0,Yes
+SEC-0290,2025W,IT Support,St. James,in-person,30,25,1,56,75.6,No
+SEC-0291,2025W,IT Support,St. James,online,30,29,4,70,69.5,No
+SEC-0292,2025W,IT Support,St. James,online,42,42,3,70,69.2,Yes
+SEC-0293,2025W,IT Support,St. James,online,30,28,3,42,69.1,No
+SEC-0294,2025W,IT Support,St. James,online,42,37,3,70,63.9,No
+SEC-0295,2025W,IT Support,St. James,online,36,31,2,70,75.6,No
+SEC-0296,2025W,IT Support,St. James,hybrid,30,28,2,42,60.2,No
+SEC-0297,2025W,IT Support,St. James,hybrid,24,19,1,56,78.0,Yes
+SEC-0298,2025W,IT Support,St. James,hybrid,24,17,1,56,89.2,No
+SEC-0299,2025W,IT Support,St. James,hybrid,42,39,3,42,72.0,No
+SEC-0300,2025W,IT Support,St. James,hybrid,42,34,1,70,69.1,No
+SEC-0301,2025W,IT Support,Waterfront,in-person,36,26,2,56,68.6,No
+SEC-0302,2025W,IT Support,Waterfront,in-person,36,31,2,56,69.0,No
+SEC-0303,2025W,IT Support,Waterfront,in-person,36,27,1,56,64.8,No
+SEC-0304,2025W,IT Support,Waterfront,in-person,36,22,1,42,72.6,No
+SEC-0305,2025W,IT Support,Waterfront,in-person,42,40,3,42,60.8,No
+SEC-0306,2025W,IT Support,Waterfront,online,36,35,3,42,74.0,No
+SEC-0307,2025W,IT Support,Waterfront,online,24,23,2,56,79.2,No
+SEC-0308,2025W,IT Support,Waterfront,online,42,29,4,42,74.2,No
+SEC-0309,2025W,IT Support,Waterfront,online,42,37,2,56,74.7,No
+SEC-0310,2025W,IT Support,Waterfront,online,30,25,3,56,74.7,Yes
+SEC-0311,2025W,IT Support,Waterfront,hybrid,24,18,1,56,75.4,Yes
+SEC-0312,2025W,IT Support,Waterfront,hybrid,30,25,1,56,52.5,Yes
+SEC-0313,2025W,IT Support,Waterfront,hybrid,42,36,2,56,80.3,Yes
+SEC-0314,2025W,IT Support,Waterfront,hybrid,24,19,1,56,86.0,No
+SEC-0315,2025W,IT Support,Waterfront,hybrid,30,22,3,56,64.2,No
+SEC-0316,2025W,Business Analytics,Casa Loma,in-person,36,19,0,56,79.4,No
+SEC-0317,2025W,Business Analytics,Casa Loma,in-person,42,36,1,70,64.7,No
+SEC-0318,2025W,Business Analytics,Casa Loma,in-person,30,18,0,42,75.3,No
+SEC-0319,2025W,Business Analytics,Casa Loma,in-person,42,30,2,42,67.9,No
+SEC-0320,2025W,Business Analytics,Casa Loma,in-person,30,24,0,56,60.3,No
+SEC-0321,2025W,Business Analytics,Casa Loma,online,36,32,2,56,74.3,No
+SEC-0322,2025W,Business Analytics,Casa Loma,online,36,33,3,42,67.6,No
+SEC-0323,2025W,Business Analytics,Casa Loma,online,36,30,3,70,70.4,No
+SEC-0324,2025W,Business Analytics,Casa Loma,online,36,36,3,56,77.5,No
+SEC-0325,2025W,Business Analytics,Casa Loma,online,30,27,2,70,65.9,Yes
+SEC-0326,2025W,Business Analytics,Casa Loma,hybrid,24,18,2,70,73.2,No
+SEC-0327,2025W,Business Analytics,Casa Loma,hybrid,36,30,3,56,60.6,No
+SEC-0328,2025W,Business Analytics,Casa Loma,hybrid,24,21,1,70,66.3,Yes
+SEC-0329,2025W,Business Analytics,Casa Loma,hybrid,36,23,1,70,76.9,No
+SEC-0330,2025W,Business Analytics,Casa Loma,hybrid,42,33,1,70,72.3,No
+SEC-0331,2025W,Business Analytics,St. James,in-person,30,22,1,42,78.2,No
+SEC-0332,2025W,Business Analytics,St. James,in-person,42,28,2,42,67.4,No
+SEC-0333,2025W,Business Analytics,St. James,in-person,42,33,1,42,72.0,No
+SEC-0334,2025W,Business Analytics,St. James,in-person,30,16,0,56,73.5,No
+SEC-0335,2025W,Business Analytics,St. James,in-person,36,25,1,70,70.1,No
+SEC-0336,2025W,Business Analytics,St. James,online,24,18,2,56,69.6,No
+SEC-0337,2025W,Business Analytics,St. James,online,24,23,3,56,67.6,No
+SEC-0338,2025W,Business Analytics,St. James,online,24,22,2,70,66.9,Yes
+SEC-0339,2025W,Business Analytics,St. James,online,36,32,5,70,71.1,Yes
+SEC-0340,2025W,Business Analytics,St. James,online,42,39,4,42,71.8,No
+SEC-0341,2025W,Business Analytics,St. James,hybrid,36,33,2,70,68.4,Yes
+SEC-0342,2025W,Business Analytics,St. James,hybrid,24,17,2,70,73.3,No
+SEC-0343,2025W,Business Analytics,St. James,hybrid,42,37,3,70,66.4,No
+SEC-0344,2025W,Business Analytics,St. James,hybrid,24,24,2,56,71.4,No
+SEC-0345,2025W,Business Analytics,St. James,hybrid,24,18,1,42,63.9,Yes
+SEC-0346,2025W,Business Analytics,Waterfront,in-person,36,26,1,42,70.0,No
+SEC-0347,2025W,Business Analytics,Waterfront,in-person,24,20,1,42,68.8,No
+SEC-0348,2025W,Business Analytics,Waterfront,in-person,24,19,2,42,72.0,Yes
+SEC-0349,2025W,Business Analytics,Waterfront,in-person,42,28,1,70,75.8,No
+SEC-0350,2025W,Business Analytics,Waterfront,in-person,42,26,2,42,73.4,No
+SEC-0351,2025W,Business Analytics,Waterfront,online,42,37,4,70,78.9,No
+SEC-0352,2025W,Business Analytics,Waterfront,online,30,26,3,42,80.0,No
+SEC-0353,2025W,Business Analytics,Waterfront,online,30,27,2,70,69.6,No
+SEC-0354,2025W,Business Analytics,Waterfront,online,24,24,2,56,67.4,No
+SEC-0355,2025W,Business Analytics,Waterfront,online,42,39,7,70,68.0,No
+SEC-0356,2025W,Business Analytics,Waterfront,hybrid,30,23,1,42,69.4,No
+SEC-0357,2025W,Business Analytics,Waterfront,hybrid,42,29,3,70,70.5,No
+SEC-0358,2025W,Business Analytics,Waterfront,hybrid,42,33,2,56,64.7,Yes
+SEC-0359,2025W,Business Analytics,Waterfront,hybrid,24,19,2,70,67.6,No
+SEC-0360,2025W,Business Analytics,Waterfront,hybrid,30,24,1,70,57.2,Yes
+SEC-0361,2025F,Software Engineering,Casa Loma,in-person,42,29,3,70,74.1,No
+SEC-0362,2025F,Software Engineering,Casa Loma,in-person,36,24,2,70,69.1,No
+SEC-0363,2025F,Software Engineering,Casa Loma,in-person,24,19,0,56,82.2,No
+SEC-0364,2025F,Software Engineering,Casa Loma,in-person,24,15,0,56,73.5,No
+SEC-0365,2025F,Software Engineering,Casa Loma,in-person,30,18,1,70,73.5,Yes
+SEC-0366,2025F,Software Engineering,Casa Loma,online,36,28,4,56,69.8,No
+SEC-0367,2025F,Software Engineering,Casa Loma,online,42,42,5,42,69.5,Yes
+SEC-0368,2025F,Software Engineering,Casa Loma,online,30,24,2,42,69.2,No
+SEC-0369,2025F,Software Engineering,Casa Loma,online,30,26,4,56,70.8,No
+SEC-0370,2025F,Software Engineering,Casa Loma,online,30,28,2,70,64.5,No
+SEC-0371,2025F,Software Engineering,Casa Loma,hybrid,36,34,2,70,75.3,No
+SEC-0372,2025F,Software Engineering,Casa Loma,hybrid,42,39,4,56,77.1,No
+SEC-0373,2025F,Software Engineering,Casa Loma,hybrid,30,28,2,56,64.0,No
+SEC-0374,2025F,Software Engineering,Casa Loma,hybrid,42,38,2,42,71.7,No
+SEC-0375,2025F,Software Engineering,Casa Loma,hybrid,42,30,2,42,78.4,No
+SEC-0376,2025F,Software Engineering,St. James,in-person,30,24,2,70,74.9,No
+SEC-0377,2025F,Software Engineering,St. James,in-person,24,17,1,42,74.9,No
+SEC-0378,2025F,Software Engineering,St. James,in-person,30,22,0,70,72.6,No
+SEC-0379,2025F,Software Engineering,St. James,in-person,42,30,0,70,71.8,No
+SEC-0380,2025F,Software Engineering,St. James,in-person,36,24,1,42,74.4,Yes
+SEC-0381,2025F,Software Engineering,St. James,online,42,40,3,56,68.4,No
+SEC-0382,2025F,Software Engineering,St. James,online,30,27,4,70,71.3,Yes
+SEC-0383,2025F,Software Engineering,St. James,online,36,34,4,70,74.0,No
+SEC-0384,2025F,Software Engineering,St. James,online,24,22,1,70,67.0,No
+SEC-0385,2025F,Software Engineering,St. James,online,24,24,2,56,71.1,No
+SEC-0386,2025F,Software Engineering,St. James,hybrid,30,25,3,56,79.1,No
+SEC-0387,2025F,Software Engineering,St. James,hybrid,36,30,2,56,83.8,No
+SEC-0388,2025F,Software Engineering,St. James,hybrid,24,22,2,70,75.7,Yes
+SEC-0389,2025F,Software Engineering,St. James,hybrid,42,35,2,56,66.3,No
+SEC-0390,2025F,Software Engineering,St. James,hybrid,42,35,1,42,73.1,No
+SEC-0391,2025F,Software Engineering,Waterfront,in-person,24,15,0,70,73.2,No
+SEC-0392,2025F,Software Engineering,Waterfront,in-person,30,25,2,42,73.7,No
+SEC-0393,2025F,Software Engineering,Waterfront,in-person,42,32,1,70,70.9,No
+SEC-0394,2025F,Software Engineering,Waterfront,in-person,36,26,1,70,72.2,No
+SEC-0395,2025F,Software Engineering,Waterfront,in-person,36,26,1,56,72.8,Yes
+SEC-0396,2025F,Software Engineering,Waterfront,online,24,24,4,56,70.6,No
+SEC-0397,2025F,Software Engineering,Waterfront,online,24,21,3,56,68.6,No
+SEC-0398,2025F,Software Engineering,Waterfront,online,24,22,1,42,75.3,No
+SEC-0399,2025F,Software Engineering,Waterfront,online,36,33,3,70,74.3,No
+SEC-0400,2025F,Software Engineering,Waterfront,online,42,42,5,70,77.9,No
+SEC-0401,2025F,Software Engineering,Waterfront,hybrid,30,18,2,56,74.9,No
+SEC-0402,2025F,Software Engineering,Waterfront,hybrid,42,31,2,42,75.1,No
+SEC-0403,2025F,Software Engineering,Waterfront,hybrid,36,23,2,70,77.4,No
+SEC-0404,2025F,Software Engineering,Waterfront,hybrid,36,31,0,70,70.6,Yes
+SEC-0405,2025F,Software Engineering,Waterfront,hybrid,42,31,0,42,81.9,Yes
+SEC-0406,2025F,Data Science,Casa Loma,in-person,36,30,2,42,70.2,No
+SEC-0407,2025F,Data Science,Casa Loma,in-person,42,32,1,42,72.1,No
+SEC-0408,2025F,Data Science,Casa Loma,in-person,42,25,1,42,75.4,No
+SEC-0409,2025F,Data Science,Casa Loma,in-person,30,16,0,42,72.2,No
+SEC-0410,2025F,Data Science,Casa Loma,in-person,30,21,0,42,78.7,No
+SEC-0411,2025F,Data Science,Casa Loma,online,36,32,5,70,75.9,No
+SEC-0412,2025F,Data Science,Casa Loma,online,42,34,5,70,69.0,No
+SEC-0413,2025F,Data Science,Casa Loma,online,24,21,1,42,73.4,No
+SEC-0414,2025F,Data Science,Casa Loma,online,30,26,4,42,69.4,No
+SEC-0415,2025F,Data Science,Casa Loma,online,24,21,2,70,76.9,No
+SEC-0416,2025F,Data Science,Casa Loma,hybrid,42,33,4,70,73.2,No
+SEC-0417,2025F,Data Science,Casa Loma,hybrid,30,27,3,42,70.9,Yes
+SEC-0418,2025F,Data Science,Casa Loma,hybrid,42,42,2,56,69.2,No
+SEC-0419,2025F,Data Science,Casa Loma,hybrid,24,18,2,70,80.5,No
+SEC-0420,2025F,Data Science,Casa Loma,hybrid,24,20,3,70,73.7,No
+SEC-0421,2025F,Data Science,St. James,in-person,42,28,1,42,72.8,No
+SEC-0422,2025F,Data Science,St. James,in-person,24,17,0,70,70.9,No
+SEC-0423,2025F,Data Science,St. James,in-person,36,23,0,56,74.6,No
+SEC-0424,2025F,Data Science,St. James,in-person,30,21,2,70,72.5,No
+SEC-0425,2025F,Data Science,St. James,in-person,24,15,1,56,74.6,No
+SEC-0426,2025F,Data Science,St. James,online,42,38,3,56,72.7,Yes
+SEC-0427,2025F,Data Science,St. James,online,30,29,3,70,76.9,No
+SEC-0428,2025F,Data Science,St. James,online,36,34,4,56,71.7,No
+SEC-0429,2025F,Data Science,St. James,online,42,42,5,42,71.8,No
+SEC-0430,2025F,Data Science,St. James,online,30,23,3,56,76.0,No
+SEC-0431,2025F,Data Science,St. James,hybrid,42,32,4,70,78.4,No
+SEC-0432,2025F,Data Science,St. James,hybrid,36,30,2,70,78.3,No
+SEC-0433,2025F,Data Science,St. James,hybrid,24,20,2,42,78.7,No
+SEC-0434,2025F,Data Science,St. James,hybrid,30,26,2,70,76.7,Yes
+SEC-0435,2025F,Data Science,St. James,hybrid,30,29,1,70,72.7,No
+SEC-0436,2025F,Data Science,Waterfront,in-person,30,19,1,70,75.1,No
+SEC-0437,2025F,Data Science,Waterfront,in-person,30,22,1,56,82.6,No
+SEC-0438,2025F,Data Science,Waterfront,in-person,24,16,0,56,78.2,No
+SEC-0439,2025F,Data Science,Waterfront,in-person,24,18,0,42,76.1,No
+SEC-0440,2025F,Data Science,Waterfront,in-person,24,19,1,42,70.5,No
+SEC-0441,2025F,Data Science,Waterfront,online,24,21,3,70,71.4,No
+SEC-0442,2025F,Data Science,Waterfront,online,24,24,4,56,78.9,No
+SEC-0443,2025F,Data Science,Waterfront,online,24,24,1,56,71.3,No
+SEC-0444,2025F,Data Science,Waterfront,online,42,36,5,42,71.1,No
+SEC-0445,2025F,Data Science,Waterfront,online,30,23,3,70,75.6,Yes
+SEC-0446,2025F,Data Science,Waterfront,hybrid,24,21,2,42,77.9,Yes
+SEC-0447,2025F,Data Science,Waterfront,hybrid,24,22,1,70,70.8,No
+SEC-0448,2025F,Data Science,Waterfront,hybrid,24,21,2,70,81.8,No
+SEC-0449,2025F,Data Science,Waterfront,hybrid,24,15,1,56,69.4,No
+SEC-0450,2025F,Data Science,Waterfront,hybrid,42,28,1,56,73.6,Yes
+SEC-0451,2025F,IT Support,Casa Loma,in-person,30,21,0,42,78.4,No
+SEC-0452,2025F,IT Support,Casa Loma,in-person,36,25,0,70,71.1,No
+SEC-0453,2025F,IT Support,Casa Loma,in-person,42,30,1,42,65.8,No
+SEC-0454,2025F,IT Support,Casa Loma,in-person,24,17,0,56,80.3,Yes
+SEC-0455,2025F,IT Support,Casa Loma,in-person,36,23,1,56,94.6,Yes
+SEC-0456,2025F,IT Support,Casa Loma,online,42,32,4,70,63.4,No
+SEC-0457,2025F,IT Support,Casa Loma,online,42,42,3,42,54.6,No
+SEC-0458,2025F,IT Support,Casa Loma,online,36,36,7,42,95.9,No
+SEC-0459,2025F,IT Support,Casa Loma,online,24,19,3,56,79.0,No
+SEC-0460,2025F,IT Support,Casa Loma,online,24,24,4,70,74.5,No
+SEC-0461,2025F,IT Support,Casa Loma,hybrid,24,18,2,42,73.1,No
+SEC-0462,2025F,IT Support,Casa Loma,hybrid,42,27,2,42,77.1,No
+SEC-0463,2025F,IT Support,Casa Loma,hybrid,24,23,1,42,85.1,Yes
+SEC-0464,2025F,IT Support,Casa Loma,hybrid,30,22,1,42,91.2,No
+SEC-0465,2025F,IT Support,Casa Loma,hybrid,30,20,1,56,70.6,No
+SEC-0466,2025F,IT Support,St. James,in-person,36,32,1,70,66.9,No
+SEC-0467,2025F,IT Support,St. James,in-person,30,20,1,42,78.5,No
+SEC-0468,2025F,IT Support,St. James,in-person,36,29,0,56,75.4,No
+SEC-0469,2025F,IT Support,St. James,in-person,24,18,1,56,84.4,No
+SEC-0470,2025F,IT Support,St. James,in-person,24,16,1,42,70.1,No
+SEC-0471,2025F,IT Support,St. James,online,42,42,4,42,83.4,No
+SEC-0472,2025F,IT Support,St. James,online,36,36,4,70,73.2,No
+SEC-0473,2025F,IT Support,St. James,online,36,36,3,42,63.5,No
+SEC-0474,2025F,IT Support,St. James,online,42,36,3,70,86.8,No
+SEC-0475,2025F,IT Support,St. James,online,24,20,1,56,68.8,No
+SEC-0476,2025F,IT Support,St. James,hybrid,30,28,3,42,76.5,No
+SEC-0477,2025F,IT Support,St. James,hybrid,30,26,2,70,55.8,No
+SEC-0478,2025F,IT Support,St. James,hybrid,36,28,2,56,64.7,Yes
+SEC-0479,2025F,IT Support,St. James,hybrid,24,22,2,70,76.4,No
+SEC-0480,2025F,IT Support,St. James,hybrid,36,33,2,70,75.0,Yes
+SEC-0481,2025F,IT Support,Waterfront,in-person,30,24,1,70,63.1,No
+SEC-0482,2025F,IT Support,Waterfront,in-person,36,25,2,70,76.8,Yes
+SEC-0483,2025F,IT Support,Waterfront,in-person,42,39,2,56,75.8,Yes
+SEC-0484,2025F,IT Support,Waterfront,in-person,30,18,1,56,82.1,No
+SEC-0485,2025F,IT Support,Waterfront,in-person,36,27,2,42,68.4,No
+SEC-0486,2025F,IT Support,Waterfront,online,30,28,3,42,68.0,No
+SEC-0487,2025F,IT Support,Waterfront,online,30,30,4,56,72.6,No
+SEC-0488,2025F,IT Support,Waterfront,online,42,41,4,56,66.1,No
+SEC-0489,2025F,IT Support,Waterfront,online,24,23,3,70,79.1,No
+SEC-0490,2025F,IT Support,Waterfront,online,30,25,3,42,74.9,Yes
+SEC-0491,2025F,IT Support,Waterfront,hybrid,36,26,2,70,75.8,Yes
+SEC-0492,2025F,IT Support,Waterfront,hybrid,42,32,3,56,70.5,Yes
+SEC-0493,2025F,IT Support,Waterfront,hybrid,42,39,3,56,60.9,No
+SEC-0494,2025F,IT Support,Waterfront,hybrid,24,18,1,56,69.3,No
+SEC-0495,2025F,IT Support,Waterfront,hybrid,24,20,2,56,67.5,No
+SEC-0496,2025F,Business Analytics,Casa Loma,in-person,42,28,2,56,72.5,No
+SEC-0497,2025F,Business Analytics,Casa Loma,in-person,42,36,2,42,68.0,No
+SEC-0498,2025F,Business Analytics,Casa Loma,in-person,36,29,2,70,74.7,No
+SEC-0499,2025F,Business Analytics,Casa Loma,in-person,36,26,0,42,73.8,No
+SEC-0500,2025F,Business Analytics,Casa Loma,in-person,36,25,1,70,66.3,Yes
+SEC-0501,2025F,Business Analytics,Casa Loma,online,36,35,2,42,63.4,Yes
+SEC-0502,2025F,Business Analytics,Casa Loma,online,36,30,3,70,66.9,No
+SEC-0503,2025F,Business Analytics,Casa Loma,online,42,42,5,56,70.8,No
+SEC-0504,2025F,Business Analytics,Casa Loma,online,42,36,6,56,63.5,Yes
+SEC-0505,2025F,Business Analytics,Casa Loma,online,30,21,2,42,72.5,No
+SEC-0506,2025F,Business Analytics,Casa Loma,hybrid,30,26,2,56,75.3,No
+SEC-0507,2025F,Business Analytics,Casa Loma,hybrid,24,22,1,42,73.0,No
+SEC-0508,2025F,Business Analytics,Casa Loma,hybrid,24,17,1,42,72.8,Yes
+SEC-0509,2025F,Business Analytics,Casa Loma,hybrid,30,26,1,56,64.6,No
+SEC-0510,2025F,Business Analytics,Casa Loma,hybrid,36,31,2,56,71.4,No
+SEC-0511,2025F,Business Analytics,St. James,in-person,36,23,1,42,68.6,No
+SEC-0512,2025F,Business Analytics,St. James,in-person,42,31,0,70,71.6,No
+SEC-0513,2025F,Business Analytics,St. James,in-person,30,22,0,42,69.2,Yes
+SEC-0514,2025F,Business Analytics,St. James,in-person,42,25,0,42,79.8,No
+SEC-0515,2025F,Business Analytics,St. James,in-person,42,23,2,70,74.0,No
+SEC-0516,2025F,Business Analytics,St. James,online,24,24,2,70,73.9,No
+SEC-0517,2025F,Business Analytics,St. James,online,36,34,4,56,64.9,No
+SEC-0518,2025F,Business Analytics,St. James,online,36,36,6,42,71.4,No
+SEC-0519,2025F,Business Analytics,St. James,online,42,32,3,70,78.4,No
+SEC-0520,2025F,Business Analytics,St. James,online,24,24,2,70,71.5,No
+SEC-0521,2025F,Business Analytics,St. James,hybrid,42,38,4,42,75.2,No
+SEC-0522,2025F,Business Analytics,St. James,hybrid,42,34,3,42,66.2,Yes
+SEC-0523,2025F,Business Analytics,St. James,hybrid,42,42,3,42,66.1,No
+SEC-0524,2025F,Business Analytics,St. James,hybrid,42,34,5,42,72.4,No
+SEC-0525,2025F,Business Analytics,St. James,hybrid,42,36,4,56,66.0,No
+SEC-0526,2025F,Business Analytics,Waterfront,in-person,36,26,0,56,74.8,No
+SEC-0527,2025F,Business Analytics,Waterfront,in-person,30,18,0,56,71.1,No
+SEC-0528,2025F,Business Analytics,Waterfront,in-person,30,20,1,70,66.6,No
+SEC-0529,2025F,Business Analytics,Waterfront,in-person,24,14,1,70,66.5,No
+SEC-0530,2025F,Business Analytics,Waterfront,in-person,42,28,0,56,71.6,No
+SEC-0531,2025F,Business Analytics,Waterfront,online,42,40,4,42,76.1,No
+SEC-0532,2025F,Business Analytics,Waterfront,online,24,22,2,70,67.2,No
+SEC-0533,2025F,Business Analytics,Waterfront,online,36,36,2,56,71.6,No
+SEC-0534,2025F,Business Analytics,Waterfront,online,42,32,4,56,67.4,No
+SEC-0535,2025F,Business Analytics,Waterfront,online,42,37,4,70,74.3,No
+SEC-0536,2025F,Business Analytics,Waterfront,hybrid,24,19,2,56,65.9,No
+SEC-0537,2025F,Business Analytics,Waterfront,hybrid,42,34,3,70,72.0,Yes
+SEC-0538,2025F,Business Analytics,Waterfront,hybrid,42,32,2,70,69.6,No
+SEC-0539,2025F,Business Analytics,Waterfront,hybrid,24,22,2,56,77.9,No
+SEC-0540,2025F,Business Analytics,Waterfront,hybrid,30,27,2,56,72.1,Yes
+SEC-0541,2026W,Software Engineering,Casa Loma,in-person,24,15,0,56,76.5,No
+SEC-0542,2026W,Software Engineering,Casa Loma,in-person,42,29,1,42,74.4,No
+SEC-0543,2026W,Software Engineering,Casa Loma,in-person,36,26,2,42,72.7,No
+SEC-0544,2026W,Software Engineering,Casa Loma,in-person,42,32,0,70,74.0,No
+SEC-0545,2026W,Software Engineering,Casa Loma,in-person,30,23,1,56,76.8,No
+SEC-0546,2026W,Software Engineering,Casa Loma,online,30,28,2,42,64.7,No
+SEC-0547,2026W,Software Engineering,Casa Loma,online,24,24,2,70,71.8,Yes
+SEC-0548,2026W,Software Engineering,Casa Loma,online,42,35,5,56,77.9,No
+SEC-0549,2026W,Software Engineering,Casa Loma,online,30,23,3,70,68.3,No
+SEC-0550,2026W,Software Engineering,Casa Loma,online,36,32,4,56,69.4,No
+SEC-0551,2026W,Software Engineering,Casa Loma,hybrid,30,27,3,56,74.4,No
+SEC-0552,2026W,Software Engineering,Casa Loma,hybrid,36,31,1,70,69.5,No
+SEC-0553,2026W,Software Engineering,Casa Loma,hybrid,24,21,1,42,76.9,No
+SEC-0554,2026W,Software Engineering,Casa Loma,hybrid,24,16,1,42,74.4,Yes
+SEC-0555,2026W,Software Engineering,Casa Loma,hybrid,24,19,0,42,77.5,No
+SEC-0556,2026W,Software Engineering,St. James,in-person,42,21,1,70,76.6,No
+SEC-0557,2026W,Software Engineering,St. James,in-person,42,35,0,56,80.6,No
+SEC-0558,2026W,Software Engineering,St. James,in-person,30,22,1,42,76.1,Yes
+SEC-0559,2026W,Software Engineering,St. James,in-person,42,30,1,56,74.4,No
+SEC-0560,2026W,Software Engineering,St. James,in-person,30,22,2,70,75.4,No
+SEC-0561,2026W,Software Engineering,St. James,online,42,36,3,56,66.2,No
+SEC-0562,2026W,Software Engineering,St. James,online,42,33,1,70,74.1,No
+SEC-0563,2026W,Software Engineering,St. James,online,30,26,2,70,74.8,No
+SEC-0564,2026W,Software Engineering,St. James,online,42,41,2,70,68.8,No
+SEC-0565,2026W,Software Engineering,St. James,online,24,22,2,70,68.9,Yes
+SEC-0566,2026W,Software Engineering,St. James,hybrid,36,30,4,42,75.7,No
+SEC-0567,2026W,Software Engineering,St. James,hybrid,30,23,2,70,73.7,No
+SEC-0568,2026W,Software Engineering,St. James,hybrid,36,31,3,70,72.9,No
+SEC-0569,2026W,Software Engineering,St. James,hybrid,24,22,1,70,76.1,No
+SEC-0570,2026W,Software Engineering,St. James,hybrid,42,33,3,56,73.5,No
+SEC-0571,2026W,Software Engineering,Waterfront,in-person,24,19,1,56,65.3,No
+SEC-0572,2026W,Software Engineering,Waterfront,in-person,36,28,1,70,73.8,No
+SEC-0573,2026W,Software Engineering,Waterfront,in-person,24,19,2,70,74.0,No
+SEC-0574,2026W,Software Engineering,Waterfront,in-person,30,23,0,70,73.6,Yes
+SEC-0575,2026W,Software Engineering,Waterfront,in-person,30,25,1,42,74.1,No
+SEC-0576,2026W,Software Engineering,Waterfront,online,42,39,5,42,67.7,No
+SEC-0577,2026W,Software Engineering,Waterfront,online,30,23,3,42,70.6,No
+SEC-0578,2026W,Software Engineering,Waterfront,online,24,22,2,42,71.3,No
+SEC-0579,2026W,Software Engineering,Waterfront,online,42,32,4,56,72.7,Yes
+SEC-0580,2026W,Software Engineering,Waterfront,online,36,31,4,56,76.3,No
+SEC-0581,2026W,Software Engineering,Waterfront,hybrid,24,19,1,70,78.1,No
+SEC-0582,2026W,Software Engineering,Waterfront,hybrid,42,34,2,70,71.2,No
+SEC-0583,2026W,Software Engineering,Waterfront,hybrid,36,30,2,42,72.6,No
+SEC-0584,2026W,Software Engineering,Waterfront,hybrid,42,40,2,56,80.6,No
+SEC-0585,2026W,Software Engineering,Waterfront,hybrid,36,24,2,42,72.3,No
+SEC-0586,2026W,Data Science,Casa Loma,in-person,42,35,3,56,72.1,Yes
+SEC-0587,2026W,Data Science,Casa Loma,in-person,30,18,1,56,77.6,No
+SEC-0588,2026W,Data Science,Casa Loma,in-person,42,31,0,42,77.6,No
+SEC-0589,2026W,Data Science,Casa Loma,in-person,36,28,2,42,74.5,Yes
+SEC-0590,2026W,Data Science,Casa Loma,in-person,36,29,1,70,69.7,No
+SEC-0591,2026W,Data Science,Casa Loma,online,30,23,3,70,80.2,No
+SEC-0592,2026W,Data Science,Casa Loma,online,30,29,3,56,63.7,No
+SEC-0593,2026W,Data Science,Casa Loma,online,24,22,3,70,73.8,Yes
+SEC-0594,2026W,Data Science,Casa Loma,online,36,25,2,70,86.4,No
+SEC-0595,2026W,Data Science,Casa Loma,online,30,30,4,42,73.9,No
+SEC-0596,2026W,Data Science,Casa Loma,hybrid,42,39,4,56,78.4,No
+SEC-0597,2026W,Data Science,Casa Loma,hybrid,30,20,1,70,69.3,No
+SEC-0598,2026W,Data Science,Casa Loma,hybrid,36,24,2,70,80.9,No
+SEC-0599,2026W,Data Science,Casa Loma,hybrid,30,20,2,42,84.3,No
+SEC-0600,2026W,Data Science,Casa Loma,hybrid,24,18,2,56,72.5,No
+SEC-0601,2026W,Data Science,St. James,in-person,24,17,1,56,74.4,No
+SEC-0602,2026W,Data Science,St. James,in-person,42,30,1,42,81.5,Yes
+SEC-0603,2026W,Data Science,St. James,in-person,30,22,1,70,77.4,No
+SEC-0604,2026W,Data Science,St. James,in-person,24,14,1,70,73.9,No
+SEC-0605,2026W,Data Science,St. James,in-person,30,21,1,70,69.8,No
+SEC-0606,2026W,Data Science,St. James,online,42,42,4,70,66.0,No
+SEC-0607,2026W,Data Science,St. James,online,30,25,3,42,71.4,No
+SEC-0608,2026W,Data Science,St. James,online,42,42,7,56,68.0,No
+SEC-0609,2026W,Data Science,St. James,online,36,35,5,70,70.5,No
+SEC-0610,2026W,Data Science,St. James,online,42,39,5,70,69.4,Yes
+SEC-0611,2026W,Data Science,St. James,hybrid,42,28,2,42,82.2,No
+SEC-0612,2026W,Data Science,St. James,hybrid,36,25,3,42,75.4,No
+SEC-0613,2026W,Data Science,St. James,hybrid,36,31,3,42,68.6,No
+SEC-0614,2026W,Data Science,St. James,hybrid,42,33,2,70,73.7,No
+SEC-0615,2026W,Data Science,St. James,hybrid,24,18,2,56,68.3,No
+SEC-0616,2026W,Data Science,Waterfront,in-person,24,18,1,56,75.8,No
+SEC-0617,2026W,Data Science,Waterfront,in-person,30,17,1,70,76.8,Yes
+SEC-0618,2026W,Data Science,Waterfront,in-person,42,28,1,56,79.1,No
+SEC-0619,2026W,Data Science,Waterfront,in-person,30,22,1,56,81.8,No
+SEC-0620,2026W,Data Science,Waterfront,in-person,30,21,1,56,77.1,Yes
+SEC-0621,2026W,Data Science,Waterfront,online,24,21,2,42,73.6,No
+SEC-0622,2026W,Data Science,Waterfront,online,42,31,4,42,78.5,No
+SEC-0623,2026W,Data Science,Waterfront,online,36,30,4,70,78.8,No
+SEC-0624,2026W,Data Science,Waterfront,online,36,36,5,70,70.7,No
+SEC-0625,2026W,Data Science,Waterfront,online,36,36,3,70,78.4,No
+SEC-0626,2026W,Data Science,Waterfront,hybrid,36,32,3,70,74.4,No
+SEC-0627,2026W,Data Science,Waterfront,hybrid,30,25,1,70,75.2,No
+SEC-0628,2026W,Data Science,Waterfront,hybrid,36,29,0,56,77.1,No
+SEC-0629,2026W,Data Science,Waterfront,hybrid,30,24,2,56,77.6,Yes
+SEC-0630,2026W,Data Science,Waterfront,hybrid,36,27,2,42,76.6,No
+SEC-0631,2026W,IT Support,Casa Loma,in-person,24,19,1,42,72.5,No
+SEC-0632,2026W,IT Support,Casa Loma,in-person,30,21,0,42,69.7,No
+SEC-0633,2026W,IT Support,Casa Loma,in-person,30,18,1,42,77.3,No
+SEC-0634,2026W,IT Support,Casa Loma,in-person,42,33,2,42,73.6,Yes
+SEC-0635,2026W,IT Support,Casa Loma,in-person,42,28,0,42,97.0,No
+SEC-0636,2026W,IT Support,Casa Loma,online,24,23,2,56,76.2,No
+SEC-0637,2026W,IT Support,Casa Loma,online,42,32,3,56,82.9,No
+SEC-0638,2026W,IT Support,Casa Loma,online,36,35,3,70,73.0,Yes
+SEC-0639,2026W,IT Support,Casa Loma,online,24,20,2,56,73.7,No
+SEC-0640,2026W,IT Support,Casa Loma,online,42,42,2,42,67.5,Yes
+SEC-0641,2026W,IT Support,Casa Loma,hybrid,42,37,3,70,78.3,No
+SEC-0642,2026W,IT Support,Casa Loma,hybrid,42,33,5,42,69.6,No
+SEC-0643,2026W,IT Support,Casa Loma,hybrid,42,36,3,56,82.9,No
+SEC-0644,2026W,IT Support,Casa Loma,hybrid,24,20,1,70,80.2,No
+SEC-0645,2026W,IT Support,Casa Loma,hybrid,24,21,2,42,60.6,No
+SEC-0646,2026W,IT Support,St. James,in-person,42,31,2,70,63.2,No
+SEC-0647,2026W,IT Support,St. James,in-person,24,15,1,42,67.7,No
+SEC-0648,2026W,IT Support,St. James,in-person,24,19,1,56,65.5,No
+SEC-0649,2026W,IT Support,St. James,in-person,42,22,1,70,81.2,No
+SEC-0650,2026W,IT Support,St. James,in-person,24,20,1,42,62.1,No
+SEC-0651,2026W,IT Support,St. James,online,42,36,5,42,85.6,No
+SEC-0652,2026W,IT Support,St. James,online,36,35,5,42,76.6,No
+SEC-0653,2026W,IT Support,St. James,online,24,20,2,56,81.8,Yes
+SEC-0654,2026W,IT Support,St. James,online,36,29,2,56,84.6,No
+SEC-0655,2026W,IT Support,St. James,online,24,21,2,56,76.3,No
+SEC-0656,2026W,IT Support,St. James,hybrid,30,26,1,70,65.2,No
+SEC-0657,2026W,IT Support,St. James,hybrid,30,24,1,56,79.1,No
+SEC-0658,2026W,IT Support,St. James,hybrid,42,40,3,56,83.2,No
+SEC-0659,2026W,IT Support,St. James,hybrid,30,20,2,42,75.6,Yes
+SEC-0660,2026W,IT Support,St. James,hybrid,42,36,2,70,75.6,No
+SEC-0661,2026W,IT Support,Waterfront,in-person,24,16,1,70,69.8,No
+SEC-0662,2026W,IT Support,Waterfront,in-person,24,17,1,56,67.1,No
+SEC-0663,2026W,IT Support,Waterfront,in-person,24,20,0,56,89.5,No
+SEC-0664,2026W,IT Support,Waterfront,in-person,36,24,2,56,76.0,No
+SEC-0665,2026W,IT Support,Waterfront,in-person,42,37,1,70,90.0,No
+SEC-0666,2026W,IT Support,Waterfront,online,30,28,4,70,72.2,No
+SEC-0667,2026W,IT Support,Waterfront,online,30,30,3,70,68.6,Yes
+SEC-0668,2026W,IT Support,Waterfront,online,30,23,1,42,73.4,No
+SEC-0669,2026W,IT Support,Waterfront,online,30,27,3,42,88.1,Yes
+SEC-0670,2026W,IT Support,Waterfront,online,30,21,2,56,80.1,No
+SEC-0671,2026W,IT Support,Waterfront,hybrid,30,26,2,70,71.0,No
+SEC-0672,2026W,IT Support,Waterfront,hybrid,36,28,2,70,68.2,No
+SEC-0673,2026W,IT Support,Waterfront,hybrid,24,19,3,70,68.7,Yes
+SEC-0674,2026W,IT Support,Waterfront,hybrid,42,33,3,42,76.2,No
+SEC-0675,2026W,IT Support,Waterfront,hybrid,42,35,1,42,80.1,No
+SEC-0676,2026W,Business Analytics,Casa Loma,in-person,30,23,1,70,69.3,Yes
+SEC-0677,2026W,Business Analytics,Casa Loma,in-person,36,25,2,42,67.9,No
+SEC-0678,2026W,Business Analytics,Casa Loma,in-person,42,28,1,70,66.7,No
+SEC-0679,2026W,Business Analytics,Casa Loma,in-person,36,19,1,42,67.1,No
+SEC-0680,2026W,Business Analytics,Casa Loma,in-person,42,35,1,70,70.8,No
+SEC-0681,2026W,Business Analytics,Casa Loma,online,42,40,4,42,76.1,No
+SEC-0682,2026W,Business Analytics,Casa Loma,online,36,35,4,42,64.4,No
+SEC-0683,2026W,Business Analytics,Casa Loma,online,36,35,5,70,62.0,No
+SEC-0684,2026W,Business Analytics,Casa Loma,online,42,37,5,56,67.5,No
+SEC-0685,2026W,Business Analytics,Casa Loma,online,30,22,2,42,78.6,Yes
+SEC-0686,2026W,Business Analytics,Casa Loma,hybrid,30,24,2,70,72.5,No
+SEC-0687,2026W,Business Analytics,Casa Loma,hybrid,24,22,2,42,72.0,No
+SEC-0688,2026W,Business Analytics,Casa Loma,hybrid,36,31,2,42,80.6,No
+SEC-0689,2026W,Business Analytics,Casa Loma,hybrid,30,26,3,56,74.4,No
+SEC-0690,2026W,Business Analytics,Casa Loma,hybrid,42,34,2,56,79.5,No
+SEC-0691,2026W,Business Analytics,St. James,in-person,24,20,2,56,79.1,No
+SEC-0692,2026W,Business Analytics,St. James,in-person,24,18,1,70,75.7,No
+SEC-0693,2026W,Business Analytics,St. James,in-person,24,16,1,70,74.1,Yes
+SEC-0694,2026W,Business Analytics,St. James,in-person,36,29,2,56,70.3,No
+SEC-0695,2026W,Business Analytics,St. James,in-person,36,27,2,70,75.9,Yes
+SEC-0696,2026W,Business Analytics,St. James,online,24,21,1,42,63.7,No
+SEC-0697,2026W,Business Analytics,St. James,online,36,36,3,56,63.2,No
+SEC-0698,2026W,Business Analytics,St. James,online,42,41,5,56,68.5,No
+SEC-0699,2026W,Business Analytics,St. James,online,30,27,2,70,69.9,No
+SEC-0700,2026W,Business Analytics,St. James,online,42,36,5,42,63.4,No
+SEC-0701,2026W,Business Analytics,St. James,hybrid,24,17,2,42,80.1,No
+SEC-0702,2026W,Business Analytics,St. James,hybrid,42,34,2,56,74.6,Yes
+SEC-0703,2026W,Business Analytics,St. James,hybrid,24,21,1,70,73.3,No
+SEC-0704,2026W,Business Analytics,St. James,hybrid,24,19,1,70,69.9,No
+SEC-0705,2026W,Business Analytics,St. James,hybrid,36,27,2,56,70.1,No
+SEC-0706,2026W,Business Analytics,Waterfront,in-person,36,19,1,42,82.7,Yes
+SEC-0707,2026W,Business Analytics,Waterfront,in-person,24,17,1,70,73.6,No
+SEC-0708,2026W,Business Analytics,Waterfront,in-person,30,20,1,56,70.4,Yes
+SEC-0709,2026W,Business Analytics,Waterfront,in-person,36,20,2,56,71.9,No
+SEC-0710,2026W,Business Analytics,Waterfront,in-person,30,22,1,56,75.3,No
+SEC-0711,2026W,Business Analytics,Waterfront,online,30,28,3,42,71.5,No
+SEC-0712,2026W,Business Analytics,Waterfront,online,30,23,3,70,68.2,No
+SEC-0713,2026W,Business Analytics,Waterfront,online,24,19,2,42,73.8,Yes
+SEC-0714,2026W,Business Analytics,Waterfront,online,24,24,3,70,69.8,No
+SEC-0715,2026W,Business Analytics,Waterfront,online,24,24,3,42,63.7,No
+SEC-0716,2026W,Business Analytics,Waterfront,hybrid,24,19,2,56,67.4,Yes
+SEC-0717,2026W,Business Analytics,Waterfront,hybrid,24,21,2,42,73.1,No
+SEC-0718,2026W,Business Analytics,Waterfront,hybrid,36,29,2,70,73.0,No
+SEC-0719,2026W,Business Analytics,Waterfront,hybrid,36,30,4,42,70.6,No
+SEC-0720,2026W,Business Analytics,Waterfront,hybrid,36,31,1,70,71.9,Yes
